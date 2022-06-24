@@ -1,0 +1,50 @@
+header {
+    background-color: rgb(77, 77, 161);
+    text-align: center;
+}
+
+.imagen {
+    width: 100%;
+    border-top-left-radius: 10%;
+    border-top-right-radius: 10%;
+}
+
+.caja {
+
+    width: 320px;
+    height: 800px;
+    margin: 20px;
+    border-radius: 10;
+    border: solid;
+    border-color: rgb(161, 127, 255);
+}
+
+li {
+    background-color: rgb(197, 136, 238);
+    margin: 20px;
+
+}
+
+p {
+    text-align: left;
+    margin: 10px;
+    color: rgb(32, 79, 121);
+}
+
+h2 {
+    margin: 10px;
+    text-align: left;
+    color: rgb(211, 0, 0);
+}
+
+
+#menu li {
+    display: inline;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+
+}
+
